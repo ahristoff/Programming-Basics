@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\New folder\Solution\1\bin\Debug\1.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\1\bin\Debug\1.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\1\bin\Debug\1.exe
+C:\Users\ALEN\Desktop\TASK\Solution\1\bin\Debug\1.pdb
+C:\Users\ALEN\Desktop\TASK\Solution\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\TASK\Solution\1\obj\Debug\1.exe
+C:\Users\ALEN\Desktop\TASK\Solution\1\obj\Debug\1.pdb
+C:\Users\ALEN\Desktop\izpiti\Solution\1\bin\Debug\1.exe.config
+C:\Users\ALEN\Desktop\izpiti\Solution\1\obj\Debug\1.exe
+C:\Users\ALEN\Desktop\izpiti\Solution\1\obj\Debug\1.pdb

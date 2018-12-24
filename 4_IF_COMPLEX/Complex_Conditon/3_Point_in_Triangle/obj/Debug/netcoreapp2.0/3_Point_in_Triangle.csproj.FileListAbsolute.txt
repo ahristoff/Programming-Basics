@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\bin\Debug\netcoreapp2.0\3_Point_in_Triangle.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\bin\Debug\netcoreapp2.0\3_Point_in_Triangle.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\bin\Debug\netcoreapp2.0\3_Point_in_Triangle.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\bin\Debug\netcoreapp2.0\3_Point_in_Triangle.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\bin\Debug\netcoreapp2.0\3_Point_in_Triangle.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\obj\Debug\netcoreapp2.0\3_Point_in_Triangle.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\obj\Debug\netcoreapp2.0\3_Point_in_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\obj\Debug\netcoreapp2.0\3_Point_in_Triangle.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\obj\Debug\netcoreapp2.0\3_Point_in_Triangle.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\obj\Debug\netcoreapp2.0\3_Point_in_Triangle.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\3_Point_in_Triangle\obj\Debug\netcoreapp2.0\3_Point_in_Triangle.pdb

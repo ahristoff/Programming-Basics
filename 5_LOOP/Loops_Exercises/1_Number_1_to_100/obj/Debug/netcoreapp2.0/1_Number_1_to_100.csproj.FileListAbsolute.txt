@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\bin\Debug\netcoreapp2.0\1_Number_1_to_100.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\bin\Debug\netcoreapp2.0\1_Number_1_to_100.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\bin\Debug\netcoreapp2.0\1_Number_1_to_100.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\bin\Debug\netcoreapp2.0\1_Number_1_to_100.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\bin\Debug\netcoreapp2.0\1_Number_1_to_100.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\obj\Debug\netcoreapp2.0\1_Number_1_to_100.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\obj\Debug\netcoreapp2.0\1_Number_1_to_100.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\obj\Debug\netcoreapp2.0\1_Number_1_to_100.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\obj\Debug\netcoreapp2.0\1_Number_1_to_100.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\obj\Debug\netcoreapp2.0\1_Number_1_to_100.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\1_Number_1_to_100\obj\Debug\netcoreapp2.0\1_Number_1_to_100.pdb

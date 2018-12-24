@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\bin\Debug\netcoreapp2.0\7_Left_and_Right_Sum.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\bin\Debug\netcoreapp2.0\7_Left_and_Right_Sum.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\bin\Debug\netcoreapp2.0\7_Left_and_Right_Sum.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\bin\Debug\netcoreapp2.0\7_Left_and_Right_Sum.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\bin\Debug\netcoreapp2.0\7_Left_and_Right_Sum.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\obj\Debug\netcoreapp2.0\7_Left_and_Right_Sum.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\obj\Debug\netcoreapp2.0\7_Left_and_Right_Sum.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\obj\Debug\netcoreapp2.0\7_Left_and_Right_Sum.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\obj\Debug\netcoreapp2.0\7_Left_and_Right_Sum.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\obj\Debug\netcoreapp2.0\7_Left_and_Right_Sum.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\7_Left_and_Right_Sum\obj\Debug\netcoreapp2.0\7_Left_and_Right_Sum.pdb

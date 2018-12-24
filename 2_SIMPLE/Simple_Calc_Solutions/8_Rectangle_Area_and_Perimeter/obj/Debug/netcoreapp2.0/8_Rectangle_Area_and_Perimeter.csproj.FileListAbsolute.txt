@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\obj\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\obj\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\obj\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\bin\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\bin\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\bin\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\bin\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\bin\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\obj\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\8_Rectangle_Area_and_Perimeter\obj\Debug\netcoreapp2.0\8_Rectangle_Area_and_Perimeter.pdb

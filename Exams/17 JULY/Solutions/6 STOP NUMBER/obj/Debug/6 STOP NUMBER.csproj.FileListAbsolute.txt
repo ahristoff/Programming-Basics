@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\17 JULY\Solution\6 STOP NUMBER\bin\Debug\6 STOP NUMBER.exe.config
+C:\Users\ALEN\Desktop\17 JULY\Solution\6 STOP NUMBER\bin\Debug\6 STOP NUMBER.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\6 STOP NUMBER\bin\Debug\6 STOP NUMBER.pdb
+C:\Users\ALEN\Desktop\17 JULY\Solution\6 STOP NUMBER\obj\Debug\6 STOP NUMBER.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\17 JULY\Solution\6 STOP NUMBER\obj\Debug\6 STOP NUMBER.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\6 STOP NUMBER\obj\Debug\6 STOP NUMBER.pdb

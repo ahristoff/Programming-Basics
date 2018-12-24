@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\17 JULY\Solution\2 HARVEST\bin\Debug\2 HARVEST.exe.config
+C:\Users\ALEN\Desktop\17 JULY\Solution\2 HARVEST\bin\Debug\2 HARVEST.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\2 HARVEST\bin\Debug\2 HARVEST.pdb
+C:\Users\ALEN\Desktop\17 JULY\Solution\2 HARVEST\obj\Debug\2 HARVEST.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\17 JULY\Solution\2 HARVEST\obj\Debug\2 HARVEST.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\2 HARVEST\obj\Debug\2 HARVEST.pdb

@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\bin\Debug\netcoreapp2.0\21_Tom_Cat.deps.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\bin\Debug\netcoreapp2.0\21_Tom_Cat.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\bin\Debug\netcoreapp2.0\21_Tom_Cat.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\bin\Debug\netcoreapp2.0\21_Tom_Cat.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\bin\Debug\netcoreapp2.0\21_Tom_Cat.pdb
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\obj\Debug\netcoreapp2.0\21_Tom_Cat.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\obj\Debug\netcoreapp2.0\21_Tom_Cat.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\obj\Debug\netcoreapp2.0\21_Tom_Cat.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\obj\Debug\netcoreapp2.0\21_Tom_Cat.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\21_Tom_Cat\obj\Debug\netcoreapp2.0\21_Tom_Cat.pdb

@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\bin\Debug\netcoreapp2.0\3_Quadrat_of_Stern.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\bin\Debug\netcoreapp2.0\3_Quadrat_of_Stern.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\bin\Debug\netcoreapp2.0\3_Quadrat_of_Stern.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\bin\Debug\netcoreapp2.0\3_Quadrat_of_Stern.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\bin\Debug\netcoreapp2.0\3_Quadrat_of_Stern.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\obj\Debug\netcoreapp2.0\3_Quadrat_of_Stern.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\obj\Debug\netcoreapp2.0\3_Quadrat_of_Stern.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\obj\Debug\netcoreapp2.0\3_Quadrat_of_Stern.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\obj\Debug\netcoreapp2.0\3_Quadrat_of_Stern.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\obj\Debug\netcoreapp2.0\3_Quadrat_of_Stern.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\3_Quadrat_of_Stern\obj\Debug\netcoreapp2.0\3_Quadrat_of_Stern.pdb

@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\bin\Debug\netcoreapp2.0\13_Pyramid_of_numbers.deps.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\bin\Debug\netcoreapp2.0\13_Pyramid_of_numbers.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\bin\Debug\netcoreapp2.0\13_Pyramid_of_numbers.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\bin\Debug\netcoreapp2.0\13_Pyramid_of_numbers.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\bin\Debug\netcoreapp2.0\13_Pyramid_of_numbers.pdb
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\obj\Debug\netcoreapp2.0\13_Pyramid_of_numbers.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\obj\Debug\netcoreapp2.0\13_Pyramid_of_numbers.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\obj\Debug\netcoreapp2.0\13_Pyramid_of_numbers.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\obj\Debug\netcoreapp2.0\13_Pyramid_of_numbers.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\obj\Debug\netcoreapp2.0\13_Pyramid_of_numbers.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\13_Pyramid_of_numbers\obj\Debug\netcoreapp2.0\13_Pyramid_of_numbers.pdb

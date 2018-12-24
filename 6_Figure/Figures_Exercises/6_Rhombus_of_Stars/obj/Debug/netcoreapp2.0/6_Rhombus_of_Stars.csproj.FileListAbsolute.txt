@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\bin\Debug\netcoreapp2.0\6_Rhombus_of_Stars.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\bin\Debug\netcoreapp2.0\6_Rhombus_of_Stars.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\bin\Debug\netcoreapp2.0\6_Rhombus_of_Stars.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\bin\Debug\netcoreapp2.0\6_Rhombus_of_Stars.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\bin\Debug\netcoreapp2.0\6_Rhombus_of_Stars.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\obj\Debug\netcoreapp2.0\6_Rhombus_of_Stars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\obj\Debug\netcoreapp2.0\6_Rhombus_of_Stars.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\obj\Debug\netcoreapp2.0\6_Rhombus_of_Stars.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\obj\Debug\netcoreapp2.0\6_Rhombus_of_Stars.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\obj\Debug\netcoreapp2.0\6_Rhombus_of_Stars.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\6_Rhombus_of_Stars\obj\Debug\netcoreapp2.0\6_Rhombus_of_Stars.pdb

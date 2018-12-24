@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\bin\Debug\netcoreapp2.0\7_Greatest_common_divisor.deps.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\bin\Debug\netcoreapp2.0\7_Greatest_common_divisor.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\bin\Debug\netcoreapp2.0\7_Greatest_common_divisor.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\bin\Debug\netcoreapp2.0\7_Greatest_common_divisor.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\bin\Debug\netcoreapp2.0\7_Greatest_common_divisor.pdb
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\obj\Debug\netcoreapp2.0\7_Greatest_common_divisor.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\obj\Debug\netcoreapp2.0\7_Greatest_common_divisor.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\obj\Debug\netcoreapp2.0\7_Greatest_common_divisor.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\obj\Debug\netcoreapp2.0\7_Greatest_common_divisor.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\7_Greatest_common_divisor\obj\Debug\netcoreapp2.0\7_Greatest_common_divisor.pdb

@@ -1,0 +1,17 @@
+C:\Users\ALEN\Desktop\New folder\Solution\3\bin\Debug\3.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\3\bin\Debug\3.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\3\bin\Debug\3.exe
+C:\Users\ALEN\Desktop\TASK\Solution\3\bin\Debug\3.pdb
+C:\Users\ALEN\Desktop\TASK\Solution\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\TASK\Solution\3\obj\Debug\3.exe
+C:\Users\ALEN\Desktop\TASK\Solution\3\obj\Debug\3.pdb
+C:\Users\ALEN\Desktop\izpiti\Solution\3\bin\Debug\3.exe.config
+C:\Users\ALEN\Desktop\izpiti\Solution\3\obj\Debug\3.exe
+C:\Users\ALEN\Desktop\izpiti\Solution\3\obj\Debug\3.pdb
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\bin\Debug\3.exe.config
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\bin\Debug\3.exe
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\bin\Debug\3.pdb
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\obj\Debug\3.exe
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\3\obj\Debug\3.pdb

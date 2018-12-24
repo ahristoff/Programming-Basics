@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\bin\Debug\netcoreapp2.0\5_Square_Frame.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\bin\Debug\netcoreapp2.0\5_Square_Frame.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\bin\Debug\netcoreapp2.0\5_Square_Frame.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\bin\Debug\netcoreapp2.0\5_Square_Frame.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\bin\Debug\netcoreapp2.0\5_Square_Frame.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\obj\Debug\netcoreapp2.0\5_Square_Frame.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\obj\Debug\netcoreapp2.0\5_Square_Frame.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\obj\Debug\netcoreapp2.0\5_Square_Frame.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\obj\Debug\netcoreapp2.0\5_Square_Frame.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\obj\Debug\netcoreapp2.0\5_Square_Frame.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\5_Square_Frame\obj\Debug\netcoreapp2.0\5_Square_Frame.pdb

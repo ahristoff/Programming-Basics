@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\26 March\Solution\5 PEPERUDA\bin\Debug\5 PEPERUDA.exe.config
+C:\Users\ALEN\Desktop\26 March\Solution\5 PEPERUDA\bin\Debug\5 PEPERUDA.exe
+C:\Users\ALEN\Desktop\26 March\Solution\5 PEPERUDA\bin\Debug\5 PEPERUDA.pdb
+C:\Users\ALEN\Desktop\26 March\Solution\5 PEPERUDA\obj\Debug\5 PEPERUDA.exe
+C:\Users\ALEN\Desktop\26 March\Solution\5 PEPERUDA\obj\Debug\5 PEPERUDA.pdb

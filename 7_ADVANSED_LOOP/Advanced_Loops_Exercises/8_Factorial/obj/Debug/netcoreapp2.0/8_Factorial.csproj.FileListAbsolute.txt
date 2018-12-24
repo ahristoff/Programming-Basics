@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\bin\Debug\netcoreapp2.0\8_Factorial.deps.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\bin\Debug\netcoreapp2.0\8_Factorial.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\bin\Debug\netcoreapp2.0\8_Factorial.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\bin\Debug\netcoreapp2.0\8_Factorial.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\bin\Debug\netcoreapp2.0\8_Factorial.pdb
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\obj\Debug\netcoreapp2.0\8_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\obj\Debug\netcoreapp2.0\8_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\obj\Debug\netcoreapp2.0\8_Factorial.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\obj\Debug\netcoreapp2.0\8_Factorial.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\obj\Debug\netcoreapp2.0\8_Factorial.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\8_Factorial\obj\Debug\netcoreapp2.0\8_Factorial.pdb

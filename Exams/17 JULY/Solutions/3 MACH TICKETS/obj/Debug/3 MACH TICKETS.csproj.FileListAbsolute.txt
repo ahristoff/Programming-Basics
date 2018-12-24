@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\17 JULY\Solution\3 MACH TICKETS\bin\Debug\3 MACH TICKETS.exe.config
+C:\Users\ALEN\Desktop\17 JULY\Solution\3 MACH TICKETS\bin\Debug\3 MACH TICKETS.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\3 MACH TICKETS\bin\Debug\3 MACH TICKETS.pdb
+C:\Users\ALEN\Desktop\17 JULY\Solution\3 MACH TICKETS\obj\Debug\3 MACH TICKETS.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\17 JULY\Solution\3 MACH TICKETS\obj\Debug\3 MACH TICKETS.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\3 MACH TICKETS\obj\Debug\3 MACH TICKETS.pdb

@@ -1,0 +1,13 @@
+C:\Users\ALEN\Desktop\New folder\Solution\5\bin\Debug\5.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\5\bin\Debug\5.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\5\bin\Debug\5.exe
+C:\Users\ALEN\Desktop\TASK\Solution\5\bin\Debug\5.pdb
+C:\Users\ALEN\Desktop\TASK\Solution\5\obj\Debug\5.exe
+C:\Users\ALEN\Desktop\TASK\Solution\5\obj\Debug\5.pdb
+C:\Users\ALEN\Desktop\TASK\Solution\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\izpiti\Solution\5\bin\Debug\5.exe.config
+C:\Users\ALEN\Desktop\izpiti\Solution\5\obj\Debug\5.exe
+C:\Users\ALEN\Desktop\izpiti\Solution\5\obj\Debug\5.pdb
+C:\Users\ALEN\Desktop\izpiti\Solution\5\bin\Debug\5.exe
+C:\Users\ALEN\Desktop\izpiti\Solution\5\bin\Debug\5.pdb
+C:\Users\ALEN\Desktop\izpiti\Solution\5\obj\Debug\5.csprojResolveAssemblyReference.cache

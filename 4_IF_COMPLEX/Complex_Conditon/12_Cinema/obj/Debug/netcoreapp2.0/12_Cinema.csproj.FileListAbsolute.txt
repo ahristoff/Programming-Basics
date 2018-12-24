@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\bin\Debug\netcoreapp2.0\12_Cinema.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\bin\Debug\netcoreapp2.0\12_Cinema.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\bin\Debug\netcoreapp2.0\12_Cinema.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\bin\Debug\netcoreapp2.0\12_Cinema.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\bin\Debug\netcoreapp2.0\12_Cinema.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\obj\Debug\netcoreapp2.0\12_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\obj\Debug\netcoreapp2.0\12_Cinema.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\obj\Debug\netcoreapp2.0\12_Cinema.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\obj\Debug\netcoreapp2.0\12_Cinema.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\12_Cinema\obj\Debug\netcoreapp2.0\12_Cinema.pdb

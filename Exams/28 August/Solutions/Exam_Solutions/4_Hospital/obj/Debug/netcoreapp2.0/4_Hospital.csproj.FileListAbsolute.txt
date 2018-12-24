@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\bin\Debug\netcoreapp2.0\4_Hospital.deps.json
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\bin\Debug\netcoreapp2.0\4_Hospital.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\bin\Debug\netcoreapp2.0\4_Hospital.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\bin\Debug\netcoreapp2.0\4_Hospital.dll
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\bin\Debug\netcoreapp2.0\4_Hospital.pdb
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\obj\Debug\netcoreapp2.0\4_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\obj\Debug\netcoreapp2.0\4_Hospital.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\obj\Debug\netcoreapp2.0\4_Hospital.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\obj\Debug\netcoreapp2.0\4_Hospital.dll
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\4_Hospital\obj\Debug\netcoreapp2.0\4_Hospital.pdb

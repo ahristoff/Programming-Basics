@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\bin\Debug\netcoreapp2.0\4_Fruit_or_vegetable.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\bin\Debug\netcoreapp2.0\4_Fruit_or_vegetable.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\bin\Debug\netcoreapp2.0\4_Fruit_or_vegetable.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\bin\Debug\netcoreapp2.0\4_Fruit_or_vegetable.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\bin\Debug\netcoreapp2.0\4_Fruit_or_vegetable.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\obj\Debug\netcoreapp2.0\4_Fruit_or_vegetable.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\obj\Debug\netcoreapp2.0\4_Fruit_or_vegetable.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\obj\Debug\netcoreapp2.0\4_Fruit_or_vegetable.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\obj\Debug\netcoreapp2.0\4_Fruit_or_vegetable.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\4_Fruit_or_vegetable\obj\Debug\netcoreapp2.0\4_Fruit_or_vegetable.pdb

@@ -1,0 +1,16 @@
+C:\Users\ALEN\Desktop\New folder\Solution\4\bin\Debug\4.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\4\bin\Debug\4.exe.config
+C:\Users\ALEN\Desktop\TASK\Solution\4\bin\Debug\4.exe
+C:\Users\ALEN\Desktop\TASK\Solution\4\bin\Debug\4.pdb
+C:\Users\ALEN\Desktop\TASK\Solution\4\obj\Debug\4.exe
+C:\Users\ALEN\Desktop\TASK\Solution\4\obj\Debug\4.pdb
+C:\Users\ALEN\Desktop\izpiti\Solution\4\bin\Debug\4.exe.config
+C:\Users\ALEN\Desktop\izpiti\Solution\4\obj\Debug\4.exe
+C:\Users\ALEN\Desktop\izpiti\Solution\4\obj\Debug\4.pdb
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\bin\Debug\4.exe.config
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\bin\Debug\4.exe
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\bin\Debug\4.pdb
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\obj\Debug\4.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\obj\Debug\4.exe
+C:\Users\ALEN\Desktop\BASIC\Exams\My Exam\Solution\4\obj\Debug\4.pdb

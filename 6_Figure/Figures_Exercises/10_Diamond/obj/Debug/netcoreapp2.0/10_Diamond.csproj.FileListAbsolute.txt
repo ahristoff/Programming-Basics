@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\bin\Debug\netcoreapp2.0\10_Diamond.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\bin\Debug\netcoreapp2.0\10_Diamond.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\bin\Debug\netcoreapp2.0\10_Diamond.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\bin\Debug\netcoreapp2.0\10_Diamond.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\bin\Debug\netcoreapp2.0\10_Diamond.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\obj\Debug\netcoreapp2.0\10_Diamond.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\obj\Debug\netcoreapp2.0\10_Diamond.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\obj\Debug\netcoreapp2.0\10_Diamond.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\obj\Debug\netcoreapp2.0\10_Diamond.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\10_Diamond\obj\Debug\netcoreapp2.0\10_Diamond.pdb

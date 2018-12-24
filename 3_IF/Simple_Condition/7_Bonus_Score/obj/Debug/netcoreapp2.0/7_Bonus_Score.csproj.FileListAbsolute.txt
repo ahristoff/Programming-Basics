@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\bin\Debug\netcoreapp2.0\7_Bonus_Score.deps.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\bin\Debug\netcoreapp2.0\7_Bonus_Score.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\bin\Debug\netcoreapp2.0\7_Bonus_Score.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\bin\Debug\netcoreapp2.0\7_Bonus_Score.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\bin\Debug\netcoreapp2.0\7_Bonus_Score.pdb
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\obj\Debug\netcoreapp2.0\7_Bonus_Score.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\obj\Debug\netcoreapp2.0\7_Bonus_Score.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\obj\Debug\netcoreapp2.0\7_Bonus_Score.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\obj\Debug\netcoreapp2.0\7_Bonus_Score.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\obj\Debug\netcoreapp2.0\7_Bonus_Score.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\7_Bonus_Score\obj\Debug\netcoreapp2.0\7_Bonus_Score.pdb

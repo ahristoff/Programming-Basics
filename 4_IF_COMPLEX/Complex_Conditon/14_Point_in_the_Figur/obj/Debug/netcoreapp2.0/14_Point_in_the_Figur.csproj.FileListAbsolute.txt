@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\bin\Debug\netcoreapp2.0\14_Point_in_the_Figur.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\bin\Debug\netcoreapp2.0\14_Point_in_the_Figur.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\bin\Debug\netcoreapp2.0\14_Point_in_the_Figur.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\bin\Debug\netcoreapp2.0\14_Point_in_the_Figur.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\bin\Debug\netcoreapp2.0\14_Point_in_the_Figur.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\obj\Debug\netcoreapp2.0\14_Point_in_the_Figur.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\obj\Debug\netcoreapp2.0\14_Point_in_the_Figur.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\obj\Debug\netcoreapp2.0\14_Point_in_the_Figur.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\obj\Debug\netcoreapp2.0\14_Point_in_the_Figur.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\obj\Debug\netcoreapp2.0\14_Point_in_the_Figur.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\14_Point_in_the_Figur\obj\Debug\netcoreapp2.0\14_Point_in_the_Figur.pdb

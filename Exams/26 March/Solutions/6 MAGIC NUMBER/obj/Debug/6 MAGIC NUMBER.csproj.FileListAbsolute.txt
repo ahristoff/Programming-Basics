@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\26 March\Solution\6 MAGIC NUMBER\bin\Debug\6 MAGIC NUMBER.exe.config
+C:\Users\ALEN\Desktop\26 March\Solution\6 MAGIC NUMBER\bin\Debug\6 MAGIC NUMBER.exe
+C:\Users\ALEN\Desktop\26 March\Solution\6 MAGIC NUMBER\bin\Debug\6 MAGIC NUMBER.pdb
+C:\Users\ALEN\Desktop\26 March\Solution\6 MAGIC NUMBER\obj\Debug\6 MAGIC NUMBER.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\26 March\Solution\6 MAGIC NUMBER\obj\Debug\6 MAGIC NUMBER.exe
+C:\Users\ALEN\Desktop\26 March\Solution\6 MAGIC NUMBER\obj\Debug\6 MAGIC NUMBER.pdb

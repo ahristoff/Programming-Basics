@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\bin\Debug\netcoreapp2.0\8_Sum_Secunds.deps.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\bin\Debug\netcoreapp2.0\8_Sum_Secunds.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\bin\Debug\netcoreapp2.0\8_Sum_Secunds.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\bin\Debug\netcoreapp2.0\8_Sum_Secunds.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\bin\Debug\netcoreapp2.0\8_Sum_Secunds.pdb
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\obj\Debug\netcoreapp2.0\8_Sum_Secunds.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\obj\Debug\netcoreapp2.0\8_Sum_Secunds.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\obj\Debug\netcoreapp2.0\8_Sum_Secunds.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\obj\Debug\netcoreapp2.0\8_Sum_Secunds.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\obj\Debug\netcoreapp2.0\8_Sum_Secunds.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\8_Sum_Secunds\obj\Debug\netcoreapp2.0\8_Sum_Secunds.pdb

@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\bin\Debug\netcoreapp2.0\17_Odd_even_position.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\bin\Debug\netcoreapp2.0\17_Odd_even_position.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\bin\Debug\netcoreapp2.0\17_Odd_even_position.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\bin\Debug\netcoreapp2.0\17_Odd_even_position.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\bin\Debug\netcoreapp2.0\17_Odd_even_position.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\obj\Debug\netcoreapp2.0\17_Odd_even_position.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\obj\Debug\netcoreapp2.0\17_Odd_even_position.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\obj\Debug\netcoreapp2.0\17_Odd_even_position.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\obj\Debug\netcoreapp2.0\17_Odd_even_position.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\17_Odd_even_position\obj\Debug\netcoreapp2.0\17_Odd_even_position.pdb

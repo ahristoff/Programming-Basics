@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\bin\Debug\netcoreapp2.0\10_Check_Prime.deps.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\bin\Debug\netcoreapp2.0\10_Check_Prime.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\bin\Debug\netcoreapp2.0\10_Check_Prime.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\bin\Debug\netcoreapp2.0\10_Check_Prime.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\bin\Debug\netcoreapp2.0\10_Check_Prime.pdb
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\obj\Debug\netcoreapp2.0\10_Check_Prime.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\obj\Debug\netcoreapp2.0\10_Check_Prime.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\obj\Debug\netcoreapp2.0\10_Check_Prime.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\obj\Debug\netcoreapp2.0\10_Check_Prime.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\10_Check_Prime\obj\Debug\netcoreapp2.0\10_Check_Prime.pdb

@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\bin\Debug\netcoreapp2.0\17_Study_hall.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\bin\Debug\netcoreapp2.0\17_Study_hall.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\bin\Debug\netcoreapp2.0\17_Study_hall.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\bin\Debug\netcoreapp2.0\17_Study_hall.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\bin\Debug\netcoreapp2.0\17_Study_hall.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\obj\Debug\netcoreapp2.0\17_Study_hall.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\obj\Debug\netcoreapp2.0\17_Study_hall.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\obj\Debug\netcoreapp2.0\17_Study_hall.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\obj\Debug\netcoreapp2.0\17_Study_hall.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\obj\Debug\netcoreapp2.0\17_Study_hall.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\17_Study_hall\obj\Debug\netcoreapp2.0\17_Study_hall.pdb

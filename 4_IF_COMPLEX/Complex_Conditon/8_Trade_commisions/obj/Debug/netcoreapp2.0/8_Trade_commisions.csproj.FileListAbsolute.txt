@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\bin\Debug\netcoreapp2.0\8_Trade_commisions.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\bin\Debug\netcoreapp2.0\8_Trade_commisions.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\bin\Debug\netcoreapp2.0\8_Trade_commisions.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\bin\Debug\netcoreapp2.0\8_Trade_commisions.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\bin\Debug\netcoreapp2.0\8_Trade_commisions.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\obj\Debug\netcoreapp2.0\8_Trade_commisions.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\obj\Debug\netcoreapp2.0\8_Trade_commisions.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\obj\Debug\netcoreapp2.0\8_Trade_commisions.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\obj\Debug\netcoreapp2.0\8_Trade_commisions.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\obj\Debug\netcoreapp2.0\8_Trade_commisions.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\8_Trade_commisions\obj\Debug\netcoreapp2.0\8_Trade_commisions.pdb

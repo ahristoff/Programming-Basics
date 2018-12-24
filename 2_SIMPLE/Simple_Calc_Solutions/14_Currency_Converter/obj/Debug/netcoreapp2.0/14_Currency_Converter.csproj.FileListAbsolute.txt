@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\bin\Debug\netcoreapp2.0\14_Currency_Converter.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\bin\Debug\netcoreapp2.0\14_Currency_Converter.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\bin\Debug\netcoreapp2.0\14_Currency_Converter.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\bin\Debug\netcoreapp2.0\14_Currency_Converter.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\bin\Debug\netcoreapp2.0\14_Currency_Converter.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\obj\Debug\netcoreapp2.0\14_Currency_Converter.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\obj\Debug\netcoreapp2.0\14_Currency_Converter.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\obj\Debug\netcoreapp2.0\14_Currency_Converter.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\obj\Debug\netcoreapp2.0\14_Currency_Converter.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\14_Currency_Converter\obj\Debug\netcoreapp2.0\14_Currency_Converter.pdb

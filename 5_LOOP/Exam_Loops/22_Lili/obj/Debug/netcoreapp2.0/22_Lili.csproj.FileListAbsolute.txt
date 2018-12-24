@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\bin\Debug\netcoreapp2.0\22_Lili.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\bin\Debug\netcoreapp2.0\22_Lili.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\bin\Debug\netcoreapp2.0\22_Lili.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\bin\Debug\netcoreapp2.0\22_Lili.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\bin\Debug\netcoreapp2.0\22_Lili.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\obj\Debug\netcoreapp2.0\22_Lili.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\obj\Debug\netcoreapp2.0\22_Lili.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\obj\Debug\netcoreapp2.0\22_Lili.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\obj\Debug\netcoreapp2.0\22_Lili.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\22_Lili\obj\Debug\netcoreapp2.0\22_Lili.pdb

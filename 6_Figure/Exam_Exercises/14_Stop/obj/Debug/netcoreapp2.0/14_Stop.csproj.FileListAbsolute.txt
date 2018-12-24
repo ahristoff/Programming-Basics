@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\bin\Debug\netcoreapp2.0\14_Stop.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\bin\Debug\netcoreapp2.0\14_Stop.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\bin\Debug\netcoreapp2.0\14_Stop.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\bin\Debug\netcoreapp2.0\14_Stop.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\bin\Debug\netcoreapp2.0\14_Stop.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\obj\Debug\netcoreapp2.0\14_Stop.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\obj\Debug\netcoreapp2.0\14_Stop.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\obj\Debug\netcoreapp2.0\14_Stop.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\obj\Debug\netcoreapp2.0\14_Stop.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\14_Stop\obj\Debug\netcoreapp2.0\14_Stop.pdb

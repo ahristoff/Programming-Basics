@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\bin\Debug\netcoreapp2.0\20_Pipes.deps.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\bin\Debug\netcoreapp2.0\20_Pipes.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\bin\Debug\netcoreapp2.0\20_Pipes.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\bin\Debug\netcoreapp2.0\20_Pipes.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\bin\Debug\netcoreapp2.0\20_Pipes.pdb
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\obj\Debug\netcoreapp2.0\20_Pipes.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\obj\Debug\netcoreapp2.0\20_Pipes.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\obj\Debug\netcoreapp2.0\20_Pipes.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\obj\Debug\netcoreapp2.0\20_Pipes.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\obj\Debug\netcoreapp2.0\20_Pipes.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Exam_Exersices\20_Pipes\obj\Debug\netcoreapp2.0\20_Pipes.pdb

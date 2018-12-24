@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\bin\Debug\netcoreapp2.0\19_Tile_repair.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\bin\Debug\netcoreapp2.0\19_Tile_repair.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\bin\Debug\netcoreapp2.0\19_Tile_repair.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\bin\Debug\netcoreapp2.0\19_Tile_repair.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\bin\Debug\netcoreapp2.0\19_Tile_repair.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\obj\Debug\netcoreapp2.0\19_Tile_repair.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\obj\Debug\netcoreapp2.0\19_Tile_repair.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\obj\Debug\netcoreapp2.0\19_Tile_repair.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\obj\Debug\netcoreapp2.0\19_Tile_repair.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\19_Tile_repair\obj\Debug\netcoreapp2.0\19_Tile_repair.pdb

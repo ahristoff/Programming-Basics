@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\bin\Debug\netcoreapp2.0\3_Latin_Letter.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\bin\Debug\netcoreapp2.0\3_Latin_Letter.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\bin\Debug\netcoreapp2.0\3_Latin_Letter.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\bin\Debug\netcoreapp2.0\3_Latin_Letter.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\bin\Debug\netcoreapp2.0\3_Latin_Letter.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\obj\Debug\netcoreapp2.0\3_Latin_Letter.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\obj\Debug\netcoreapp2.0\3_Latin_Letter.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\obj\Debug\netcoreapp2.0\3_Latin_Letter.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\obj\Debug\netcoreapp2.0\3_Latin_Letter.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\3_Latin_Letter\obj\Debug\netcoreapp2.0\3_Latin_Letter.pdb

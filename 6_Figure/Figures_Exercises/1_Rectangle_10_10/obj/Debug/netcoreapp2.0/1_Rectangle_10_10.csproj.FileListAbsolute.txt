@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\bin\Debug\netcoreapp2.0\1_Rectangle_10_10.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\bin\Debug\netcoreapp2.0\1_Rectangle_10_10.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\bin\Debug\netcoreapp2.0\1_Rectangle_10_10.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\bin\Debug\netcoreapp2.0\1_Rectangle_10_10.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\bin\Debug\netcoreapp2.0\1_Rectangle_10_10.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\obj\Debug\netcoreapp2.0\1_Rectangle_10_10.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\obj\Debug\netcoreapp2.0\1_Rectangle_10_10.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\obj\Debug\netcoreapp2.0\1_Rectangle_10_10.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\obj\Debug\netcoreapp2.0\1_Rectangle_10_10.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\obj\Debug\netcoreapp2.0\1_Rectangle_10_10.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\1_Rectangle_10_10\obj\Debug\netcoreapp2.0\1_Rectangle_10_10.pdb

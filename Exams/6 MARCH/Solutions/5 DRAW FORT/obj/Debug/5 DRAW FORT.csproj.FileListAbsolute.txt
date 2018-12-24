@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\5 DRAW FORT\bin\Debug\5 DRAW FORT.exe.config
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\5 DRAW FORT\bin\Debug\5 DRAW FORT.exe
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\5 DRAW FORT\bin\Debug\5 DRAW FORT.pdb
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\5 DRAW FORT\obj\Debug\5 DRAW FORT.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\5 DRAW FORT\obj\Debug\5 DRAW FORT.exe
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\5 DRAW FORT\obj\Debug\5 DRAW FORT.pdb

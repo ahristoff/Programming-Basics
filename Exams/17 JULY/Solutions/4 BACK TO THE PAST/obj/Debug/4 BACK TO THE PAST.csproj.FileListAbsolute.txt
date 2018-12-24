@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\17 JULY\Solution\4 BACK TO THE PAST\bin\Debug\4 BACK TO THE PAST.exe.config
+C:\Users\ALEN\Desktop\17 JULY\Solution\4 BACK TO THE PAST\bin\Debug\4 BACK TO THE PAST.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\4 BACK TO THE PAST\bin\Debug\4 BACK TO THE PAST.pdb
+C:\Users\ALEN\Desktop\17 JULY\Solution\4 BACK TO THE PAST\obj\Debug\4 BACK TO THE PAST.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\17 JULY\Solution\4 BACK TO THE PAST\obj\Debug\4 BACK TO THE PAST.exe
+C:\Users\ALEN\Desktop\17 JULY\Solution\4 BACK TO THE PAST\obj\Debug\4 BACK TO THE PAST.pdb

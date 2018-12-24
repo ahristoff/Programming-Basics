@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\bin\Debug\netcoreapp2.0\16_Time_15_Minutes.deps.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\bin\Debug\netcoreapp2.0\16_Time_15_Minutes.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\bin\Debug\netcoreapp2.0\16_Time_15_Minutes.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\bin\Debug\netcoreapp2.0\16_Time_15_Minutes.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\bin\Debug\netcoreapp2.0\16_Time_15_Minutes.pdb
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\obj\Debug\netcoreapp2.0\16_Time_15_Minutes.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\obj\Debug\netcoreapp2.0\16_Time_15_Minutes.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\obj\Debug\netcoreapp2.0\16_Time_15_Minutes.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\obj\Debug\netcoreapp2.0\16_Time_15_Minutes.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\obj\Debug\netcoreapp2.0\16_Time_15_Minutes.dll
+C:\Users\ALEN\Desktop\BASIC\3_IF\Simple_Condition\16_Time_15_Minutes\obj\Debug\netcoreapp2.0\16_Time_15_Minutes.pdb

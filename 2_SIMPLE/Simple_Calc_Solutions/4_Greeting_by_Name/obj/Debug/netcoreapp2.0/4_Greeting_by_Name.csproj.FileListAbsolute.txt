@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\bin\Debug\netcoreapp2.0\4_Greeting_by_Name.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\bin\Debug\netcoreapp2.0\4_Greeting_by_Name.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\bin\Debug\netcoreapp2.0\4_Greeting_by_Name.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\bin\Debug\netcoreapp2.0\4_Greeting_by_Name.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\bin\Debug\netcoreapp2.0\4_Greeting_by_Name.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\obj\Debug\netcoreapp2.0\4_Greeting_by_Name.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\obj\Debug\netcoreapp2.0\4_Greeting_by_Name.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\obj\Debug\netcoreapp2.0\4_Greeting_by_Name.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\obj\Debug\netcoreapp2.0\4_Greeting_by_Name.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\obj\Debug\netcoreapp2.0\4_Greeting_by_Name.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\4_Greeting_by_Name\obj\Debug\netcoreapp2.0\4_Greeting_by_Name.pdb

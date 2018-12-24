@@ -1,0 +1,4 @@
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\1_Profit\obj\Debug\netcoreapp2.0\1_Profit.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\1_Profit\obj\Debug\netcoreapp2.0\1_Profit.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\1_Profit\obj\Debug\netcoreapp2.0\1_Profit.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Exams\28 August\Solutions\Exam_Solutions\1_Profit\obj\Debug\netcoreapp2.0\1_Profit.AssemblyInfo.cs

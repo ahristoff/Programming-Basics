@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\bin\Debug\netcoreapp2.0\16_Journey.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\bin\Debug\netcoreapp2.0\16_Journey.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\bin\Debug\netcoreapp2.0\16_Journey.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\bin\Debug\netcoreapp2.0\16_Journey.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\bin\Debug\netcoreapp2.0\16_Journey.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\obj\Debug\netcoreapp2.0\16_Journey.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\obj\Debug\netcoreapp2.0\16_Journey.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\obj\Debug\netcoreapp2.0\16_Journey.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\obj\Debug\netcoreapp2.0\16_Journey.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\obj\Debug\netcoreapp2.0\16_Journey.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Exam_Exersices\Exam_Exersices\16_Journey\obj\Debug\netcoreapp2.0\16_Journey.pdb

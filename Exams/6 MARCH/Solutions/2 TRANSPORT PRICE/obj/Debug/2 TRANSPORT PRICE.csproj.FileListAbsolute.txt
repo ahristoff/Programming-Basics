@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\2 TRANSPORT PRICE\bin\Debug\2 TRANSPORT PRICE.exe.config
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\2 TRANSPORT PRICE\bin\Debug\2 TRANSPORT PRICE.exe
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\2 TRANSPORT PRICE\bin\Debug\2 TRANSPORT PRICE.pdb
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\2 TRANSPORT PRICE\obj\Debug\2 TRANSPORT PRICE.exe
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\2 TRANSPORT PRICE\obj\Debug\2 TRANSPORT PRICE.pdb

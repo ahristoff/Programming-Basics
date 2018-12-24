@@ -1,0 +1,5 @@
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\4 HISTOGRAM\bin\Debug\4 HISTOGRAM.exe.config
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\4 HISTOGRAM\bin\Debug\4 HISTOGRAM.exe
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\4 HISTOGRAM\bin\Debug\4 HISTOGRAM.pdb
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\4 HISTOGRAM\obj\Debug\4 HISTOGRAM.exe
+C:\Users\ALEN\Desktop\6 MARCH\Solution1\4 HISTOGRAM\obj\Debug\4 HISTOGRAM.pdb

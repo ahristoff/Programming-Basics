@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\bin\Debug\netcoreapp2.0\3_Inches_to_Centimeters.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\bin\Debug\netcoreapp2.0\3_Inches_to_Centimeters.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\bin\Debug\netcoreapp2.0\3_Inches_to_Centimeters.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\bin\Debug\netcoreapp2.0\3_Inches_to_Centimeters.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\bin\Debug\netcoreapp2.0\3_Inches_to_Centimeters.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\obj\Debug\netcoreapp2.0\3_Inches_to_Centimeters.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\obj\Debug\netcoreapp2.0\3_Inches_to_Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\obj\Debug\netcoreapp2.0\3_Inches_to_Centimeters.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\obj\Debug\netcoreapp2.0\3_Inches_to_Centimeters.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\obj\Debug\netcoreapp2.0\3_Inches_to_Centimeters.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\3_Inches_to_Centimeters\obj\Debug\netcoreapp2.0\3_Inches_to_Centimeters.pdb

@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\bin\Debug\netcoreapp2.0\9_House.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\bin\Debug\netcoreapp2.0\9_House.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\bin\Debug\netcoreapp2.0\9_House.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\bin\Debug\netcoreapp2.0\9_House.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\bin\Debug\netcoreapp2.0\9_House.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\obj\Debug\netcoreapp2.0\9_House.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\obj\Debug\netcoreapp2.0\9_House.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\obj\Debug\netcoreapp2.0\9_House.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\obj\Debug\netcoreapp2.0\9_House.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\9_House\obj\Debug\netcoreapp2.0\9_House.pdb

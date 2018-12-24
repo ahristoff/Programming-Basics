@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\bin\Debug\netcoreapp2.0\21_Division.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\bin\Debug\netcoreapp2.0\21_Division.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\bin\Debug\netcoreapp2.0\21_Division.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\bin\Debug\netcoreapp2.0\21_Division.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\bin\Debug\netcoreapp2.0\21_Division.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\obj\Debug\netcoreapp2.0\21_Division.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\obj\Debug\netcoreapp2.0\21_Division.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\obj\Debug\netcoreapp2.0\21_Division.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\obj\Debug\netcoreapp2.0\21_Division.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Exam_Exersices\Exam_Loops\21_Division\obj\Debug\netcoreapp2.0\21_Division.pdb

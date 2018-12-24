@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\obj\Debug\netcoreapp2.0\12_Fort.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\obj\Debug\netcoreapp2.0\12_Fort.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\obj\Debug\netcoreapp2.0\12_Fort.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\obj\Debug\netcoreapp2.0\12_Fort.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\bin\Debug\netcoreapp2.0\12_Fort.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\bin\Debug\netcoreapp2.0\12_Fort.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\bin\Debug\netcoreapp2.0\12_Fort.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\bin\Debug\netcoreapp2.0\12_Fort.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\bin\Debug\netcoreapp2.0\12_Fort.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\obj\Debug\netcoreapp2.0\12_Fort.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Exam_Exersices\Exam_Exersices\12_Fort\obj\Debug\netcoreapp2.0\12_Fort.pdb

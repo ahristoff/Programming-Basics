@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\bin\Debug\netcoreapp2.0\4_Even_Powers_of_2.deps.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\bin\Debug\netcoreapp2.0\4_Even_Powers_of_2.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\bin\Debug\netcoreapp2.0\4_Even_Powers_of_2.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\bin\Debug\netcoreapp2.0\4_Even_Powers_of_2.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\bin\Debug\netcoreapp2.0\4_Even_Powers_of_2.pdb
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\obj\Debug\netcoreapp2.0\4_Even_Powers_of_2.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\obj\Debug\netcoreapp2.0\4_Even_Powers_of_2.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\obj\Debug\netcoreapp2.0\4_Even_Powers_of_2.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\obj\Debug\netcoreapp2.0\4_Even_Powers_of_2.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\obj\Debug\netcoreapp2.0\4_Even_Powers_of_2.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\4_Even_Powers_of_2\obj\Debug\netcoreapp2.0\4_Even_Powers_of_2.pdb

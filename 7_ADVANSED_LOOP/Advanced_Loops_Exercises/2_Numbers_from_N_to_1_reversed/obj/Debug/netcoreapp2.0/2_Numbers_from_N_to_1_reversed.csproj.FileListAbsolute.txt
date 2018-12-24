@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\bin\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.deps.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\bin\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\bin\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\bin\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\bin\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.pdb
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\obj\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\obj\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\obj\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\obj\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.dll
+C:\Users\ALEN\Desktop\BASIC\7_ADVANSED_LOOP\Advanced_Loops_Exersices\2_Numbers_from_N_to_1_reversed\obj\Debug\netcoreapp2.0\2_Numbers_from_N_to_1_reversed.pdb

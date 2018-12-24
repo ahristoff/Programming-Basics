@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\bin\Debug\netcoreapp2.0\12_Radians_to_Degrees.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\bin\Debug\netcoreapp2.0\12_Radians_to_Degrees.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\bin\Debug\netcoreapp2.0\12_Radians_to_Degrees.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\bin\Debug\netcoreapp2.0\12_Radians_to_Degrees.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\bin\Debug\netcoreapp2.0\12_Radians_to_Degrees.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\obj\Debug\netcoreapp2.0\12_Radians_to_Degrees.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\obj\Debug\netcoreapp2.0\12_Radians_to_Degrees.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\obj\Debug\netcoreapp2.0\12_Radians_to_Degrees.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\obj\Debug\netcoreapp2.0\12_Radians_to_Degrees.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\obj\Debug\netcoreapp2.0\12_Radians_to_Degrees.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Simple-Calcolations_Solutions\Simple_Calc_Solutions\12_Radians_to_Degrees\obj\Debug\netcoreapp2.0\12_Radians_to_Degrees.pdb

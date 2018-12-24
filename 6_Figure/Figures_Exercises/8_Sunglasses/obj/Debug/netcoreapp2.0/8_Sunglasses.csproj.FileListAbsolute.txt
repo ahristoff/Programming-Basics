@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\bin\Debug\netcoreapp2.0\8_Sunglasses.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\bin\Debug\netcoreapp2.0\8_Sunglasses.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\bin\Debug\netcoreapp2.0\8_Sunglasses.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\bin\Debug\netcoreapp2.0\8_Sunglasses.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\bin\Debug\netcoreapp2.0\8_Sunglasses.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\obj\Debug\netcoreapp2.0\8_Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\obj\Debug\netcoreapp2.0\8_Sunglasses.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\obj\Debug\netcoreapp2.0\8_Sunglasses.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\obj\Debug\netcoreapp2.0\8_Sunglasses.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\8_Sunglasses\obj\Debug\netcoreapp2.0\8_Sunglasses.pdb

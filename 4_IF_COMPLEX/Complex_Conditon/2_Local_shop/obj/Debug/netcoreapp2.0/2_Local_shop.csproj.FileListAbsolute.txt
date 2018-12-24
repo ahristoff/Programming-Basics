@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\bin\Debug\netcoreapp2.0\2_Local_shop.deps.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\bin\Debug\netcoreapp2.0\2_Local_shop.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\bin\Debug\netcoreapp2.0\2_Local_shop.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\bin\Debug\netcoreapp2.0\2_Local_shop.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\bin\Debug\netcoreapp2.0\2_Local_shop.pdb
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\obj\Debug\netcoreapp2.0\2_Local_shop.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\obj\Debug\netcoreapp2.0\2_Local_shop.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\obj\Debug\netcoreapp2.0\2_Local_shop.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\obj\Debug\netcoreapp2.0\2_Local_shop.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\obj\Debug\netcoreapp2.0\2_Local_shop.dll
+C:\Users\ALEN\Desktop\BASIC\4_IF_COMPLEX\Complex_Conditon\2_Local_shop\obj\Debug\netcoreapp2.0\2_Local_shop.pdb

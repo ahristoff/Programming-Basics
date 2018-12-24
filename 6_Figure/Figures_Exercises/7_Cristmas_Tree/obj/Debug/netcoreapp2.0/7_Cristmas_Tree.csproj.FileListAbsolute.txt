@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\bin\Debug\netcoreapp2.0\7_Cristmas_Tree.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\bin\Debug\netcoreapp2.0\7_Cristmas_Tree.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\bin\Debug\netcoreapp2.0\7_Cristmas_Tree.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\bin\Debug\netcoreapp2.0\7_Cristmas_Tree.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\bin\Debug\netcoreapp2.0\7_Cristmas_Tree.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\obj\Debug\netcoreapp2.0\7_Cristmas_Tree.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\obj\Debug\netcoreapp2.0\7_Cristmas_Tree.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\obj\Debug\netcoreapp2.0\7_Cristmas_Tree.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\obj\Debug\netcoreapp2.0\7_Cristmas_Tree.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\7_Cristmas_Tree\obj\Debug\netcoreapp2.0\7_Cristmas_Tree.pdb

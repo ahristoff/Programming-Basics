@@ -1,0 +1,6 @@
+C:\Users\ALEN\Desktop\26 March\Solution\2 PIPE IN POOL\bin\Debug\2 PIPE IN POOL.exe.config
+C:\Users\ALEN\Desktop\26 March\Solution\2 PIPE IN POOL\bin\Debug\2 PIPE IN POOL.exe
+C:\Users\ALEN\Desktop\26 March\Solution\2 PIPE IN POOL\bin\Debug\2 PIPE IN POOL.pdb
+C:\Users\ALEN\Desktop\26 March\Solution\2 PIPE IN POOL\obj\Debug\2 PIPE IN POOL.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\26 March\Solution\2 PIPE IN POOL\obj\Debug\2 PIPE IN POOL.exe
+C:\Users\ALEN\Desktop\26 March\Solution\2 PIPE IN POOL\obj\Debug\2 PIPE IN POOL.pdb

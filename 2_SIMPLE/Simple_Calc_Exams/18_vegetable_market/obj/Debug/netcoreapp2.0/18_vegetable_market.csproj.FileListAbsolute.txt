@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\bin\Debug\netcoreapp2.0\18_vegetable_market.deps.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\bin\Debug\netcoreapp2.0\18_vegetable_market.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\bin\Debug\netcoreapp2.0\18_vegetable_market.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\bin\Debug\netcoreapp2.0\18_vegetable_market.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\bin\Debug\netcoreapp2.0\18_vegetable_market.pdb
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\obj\Debug\netcoreapp2.0\18_vegetable_market.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\obj\Debug\netcoreapp2.0\18_vegetable_market.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\obj\Debug\netcoreapp2.0\18_vegetable_market.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\obj\Debug\netcoreapp2.0\18_vegetable_market.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\obj\Debug\netcoreapp2.0\18_vegetable_market.dll
+C:\Users\ALEN\Desktop\BASIC\Lecture 2 SIMPLE\Exam_Exersices\Simple_Calc_Exams\18_vegetable_market\obj\Debug\netcoreapp2.0\18_vegetable_market.pdb

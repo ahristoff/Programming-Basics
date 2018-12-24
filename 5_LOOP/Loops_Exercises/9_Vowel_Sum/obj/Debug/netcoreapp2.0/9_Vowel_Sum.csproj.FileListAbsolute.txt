@@ -1,0 +1,10 @@
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\bin\Debug\netcoreapp2.0\9_Vowel_Sum.deps.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\bin\Debug\netcoreapp2.0\9_Vowel_Sum.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\bin\Debug\netcoreapp2.0\9_Vowel_Sum.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\bin\Debug\netcoreapp2.0\9_Vowel_Sum.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\bin\Debug\netcoreapp2.0\9_Vowel_Sum.pdb
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\obj\Debug\netcoreapp2.0\9_Vowel_Sum.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\obj\Debug\netcoreapp2.0\9_Vowel_Sum.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\obj\Debug\netcoreapp2.0\9_Vowel_Sum.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\obj\Debug\netcoreapp2.0\9_Vowel_Sum.dll
+C:\Users\ALEN\Desktop\BASIC\5_LOOP\Loops_Exersices\Loops_Exersices\9_Vowel_Sum\obj\Debug\netcoreapp2.0\9_Vowel_Sum.pdb

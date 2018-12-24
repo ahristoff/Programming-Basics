@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\bin\Debug\netcoreapp2.0\4_Triagle_of_Dollars.deps.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\bin\Debug\netcoreapp2.0\4_Triagle_of_Dollars.runtimeconfig.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\bin\Debug\netcoreapp2.0\4_Triagle_of_Dollars.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\bin\Debug\netcoreapp2.0\4_Triagle_of_Dollars.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\bin\Debug\netcoreapp2.0\4_Triagle_of_Dollars.pdb
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\obj\Debug\netcoreapp2.0\4_Triagle_of_Dollars.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\obj\Debug\netcoreapp2.0\4_Triagle_of_Dollars.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\obj\Debug\netcoreapp2.0\4_Triagle_of_Dollars.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\obj\Debug\netcoreapp2.0\4_Triagle_of_Dollars.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\obj\Debug\netcoreapp2.0\4_Triagle_of_Dollars.dll
+C:\Users\ALEN\Desktop\BASIC\6_Figure\Figures_Exersices\4_Triagle_of_Dollars\obj\Debug\netcoreapp2.0\4_Triagle_of_Dollars.pdb
